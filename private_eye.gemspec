@@ -7,8 +7,8 @@ require 'private_eye/version'
 Gem::Specification.new do |gem|
   gem.name          = "private_eye"
   gem.version       = PrivateEye::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = 'Dig up the dirt on your objects.'
+  gem.description   = 'Dig up the dirt on your objects.'
   gem.license       = "MIT"
   gem.authors       = ["James Kurczodyna"]
   gem.email         = "james@wearefine.com"
